@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<root>
+   <item attr="value">
+      <subitem>foo</subitem>
+      <subitem2>bar</subitem2>
+   </item>
+   <item attr="value">
+      <subitem>baz</subitem>
+      <subitem2>qwerty</subitem2>
+   </item>
+</root>
+<?xml version="1.0"?>
+<root>
+   <item attr="value">
+      <subitem>baz</subitem>
+      <subitem2>qwerty</subitem2>
+   </item>
+   <item attr="value">
+      <subitem>baz</subitem>
+      <subitem2>qwerty</subitem2>
+   </item>
+</root>
